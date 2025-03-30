@@ -2,7 +2,7 @@
 About This Project:
 
 This project is a facial recognition system that uses an interactive game to identify players and track scores. The code includes some comments and variable names written in Dutch. It utilizes an Intel RealSense camera and the face_recognition library to detect and compare faces with pre-stored assistant images. Based on the similarity scores, a mechanism controlled via a serial connection moves a physical tower upwards.
-Additionally, there is an alternative version of the main script that does not require serial input. Instead, it uses a hardcoded list of selected assistants to simulate serial input for testing purposes.
+Additionally, there is an alternative version of the main script that does not require serial input. Instead, it uses a hardcoded list of selected assistants to simulate serial input for testing purposes (under main_code_w_cam_serialtest).
 
 FEATURES
 
